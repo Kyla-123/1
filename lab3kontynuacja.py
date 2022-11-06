@@ -21,8 +21,8 @@
 #n=int(input('podaj liczbę gwiazdek w linii:'))
 #for(n) in range(n):
 #    print('*', end='')
-x=int(input('podaj liczbę całkowitą:'))
-for (z) in range(x):
-    for (y) in range(x):
-        print('*',end=' ')
-    print(' ')
+#x=int(input('podaj liczbę całkowitą:'))
+#for (z) in range(x):
+#    for (y) in range(x):
+#        print('*',end=' ')
+#    print(' ')
